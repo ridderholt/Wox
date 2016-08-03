@@ -1,0 +1,17 @@
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Languages\en.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Languages\zh-cn.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Languages\zh-tw.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Languages\de.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Languages\pl.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\plugin.json
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Images\copy.png
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Images\folder.png
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Wox.Plugin.Folder.dll
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Folder\Wox.Plugin.Folder.pdb
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Folder\obj\Debug\Wox.Plugin.Folder.csprojResolveAssemblyReference.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Folder\obj\Debug\FolderPluginSettings.baml
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Folder\obj\Debug\FolderPluginSettings.g.cs
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Folder\obj\Debug\Wox.Plugin.Folder_MarkupCompile.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Folder\obj\Debug\Wox.Plugin.Folder.g.resources
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Folder\obj\Debug\Wox.Plugin.Folder.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Folder\obj\Debug\Wox.Plugin.Folder.pdb

@@ -1,0 +1,12 @@
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\Languages\en.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\Languages\zh-cn.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\Languages\zh-tw.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\Languages\de.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\Languages\pl.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\plugin.json
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\Images\plugin.png
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\Wox.Plugin.PluginManagement.dll
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginManagement\Wox.Plugin.PluginManagement.pdb
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.PluginManagement\obj\Debug\Wox.Plugin.PluginManagement.csprojResolveAssemblyReference.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.PluginManagement\obj\Debug\Wox.Plugin.PluginManagement.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.PluginManagement\obj\Debug\Wox.Plugin.PluginManagement.pdb

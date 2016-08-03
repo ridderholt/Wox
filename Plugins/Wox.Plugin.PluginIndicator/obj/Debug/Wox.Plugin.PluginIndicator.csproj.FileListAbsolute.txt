@@ -1,0 +1,12 @@
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\Languages\en.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\Languages\zh-cn.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\Languages\zh-tw.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\Languages\de.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\Languages\pl.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\plugin.json
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\Images\work.png
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\Wox.Plugin.PluginIndicator.dll
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.PluginIndicator\Wox.Plugin.PluginIndicator.pdb
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.PluginIndicator\obj\Debug\Wox.Plugin.PluginIndicator.csprojResolveAssemblyReference.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.PluginIndicator\obj\Debug\Wox.Plugin.PluginIndicator.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.PluginIndicator\obj\Debug\Wox.Plugin.PluginIndicator.pdb

@@ -1,0 +1,12 @@
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\Languages\en.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\Languages\zh-cn.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\Languages\zh-tw.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\Languages\de.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\Languages\pl.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\plugin.json
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\Images\ControlPanel.png
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\Wox.Plugin.ControlPanel.dll
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.ControlPanel\Wox.Plugin.ControlPanel.pdb
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.ControlPanel\obj\Debug\Wox.Plugin.ControlPanel.csprojResolveAssemblyReference.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.ControlPanel\obj\Debug\Wox.Plugin.ControlPanel.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.ControlPanel\obj\Debug\Wox.Plugin.ControlPanel.pdb

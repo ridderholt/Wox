@@ -1,0 +1,16 @@
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\Languages\en.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\Languages\zh-cn.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\Languages\zh-tw.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\Languages\de.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\Languages\pl.xaml
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\plugin.json
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\Images\shell.png
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\Wox.Plugin.Shell.dll
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\Wox.Plugin.Shell\Wox.Plugin.Shell.pdb
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Shell\obj\Debug\Wox.Plugin.Shell.csprojResolveAssemblyReference.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Shell\obj\Debug\ShellSetting.baml
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Shell\obj\Debug\ShellSetting.g.cs
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Shell\obj\Debug\Wox.Plugin.Shell_MarkupCompile.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Shell\obj\Debug\Wox.Plugin.Shell.g.resources
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Shell\obj\Debug\Wox.Plugin.Shell.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\Wox.Plugin.Shell\obj\Debug\Wox.Plugin.Shell.pdb

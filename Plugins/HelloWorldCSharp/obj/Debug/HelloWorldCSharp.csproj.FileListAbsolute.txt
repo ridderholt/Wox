@@ -1,0 +1,7 @@
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\HelloWorldCSharp\plugin.json
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\HelloWorldCSharp\HelloWorldCSharp.dll.config
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\HelloWorldCSharp\HelloWorldCSharp.dll
+C:\Workspace\Repos\Ridderholt\Wox\Output\Debug\Plugins\HelloWorldCSharp\HelloWorldCSharp.pdb
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csprojResolveAssemblyReference.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.pdb
