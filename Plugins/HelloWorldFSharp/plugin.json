@@ -1,0 +1,12 @@
+﻿{
+  "ID": "7A054D51F660471D8D314553F9876D87",
+  "ActionKeyword": "hf",
+  "Name": "Hello World FSharp",
+  "Description": "Hello World FSharp",
+  "Author": "Ridderholt",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Wox-launcher/Wox",
+  "ExecuteFileName": "HelloWorldFSharp.dll",
+  "IcoPath": "app.png"
+}

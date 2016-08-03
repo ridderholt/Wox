@@ -291,6 +291,7 @@ Output/*
 Wox/Images/websearch/Thumbs.db
 Wox/Images/Thumbs.db
 Plugins/*
+!Plugins/HelloWorldFSharp
 !Plugins/HelloWorldCSharp
 !Plugins/HelloWorldPython
 !Plugins/Wox.Plugin.Caculator

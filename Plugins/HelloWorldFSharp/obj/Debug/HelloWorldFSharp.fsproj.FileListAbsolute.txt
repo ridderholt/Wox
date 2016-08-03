@@ -1,0 +1,12 @@
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\HelloWorldFSharp.XML
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\HelloWorldFSharp.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\HelloWorldFSharp.pdb
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\FSharp.Core.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\Wox.Plugin.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\Wox.Plugin.pdb
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\FSharp.Core.xml
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\obj\Debug\HelloWorldFSharp.fsprojResolveAssemblyReference.cache
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\obj\Debug\HelloWorldFSharp.dll
+C:\Workspace\Repos\Ridderholt\Wox\Plugins\HelloWorldFSharp\obj\Debug\HelloWorldFSharp.pdb
